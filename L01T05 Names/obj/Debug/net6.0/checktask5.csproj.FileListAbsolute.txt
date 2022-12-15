@@ -1,0 +1,15 @@
+Z:\OOP\checktask5\bin\Debug\net6.0\checktask5.exe
+Z:\OOP\checktask5\bin\Debug\net6.0\checktask5.deps.json
+Z:\OOP\checktask5\bin\Debug\net6.0\checktask5.runtimeconfig.json
+Z:\OOP\checktask5\bin\Debug\net6.0\checktask5.dll
+Z:\OOP\checktask5\bin\Debug\net6.0\checktask5.pdb
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.csproj.AssemblyReference.cache
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.AssemblyInfoInputs.cache
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.AssemblyInfo.cs
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.csproj.CoreCompileInputs.cache
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.dll
+Z:\OOP\checktask5\obj\Debug\net6.0\refint\checktask5.dll
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.pdb
+Z:\OOP\checktask5\obj\Debug\net6.0\checktask5.genruntimeconfig.cache
+Z:\OOP\checktask5\obj\Debug\net6.0\ref\checktask5.dll

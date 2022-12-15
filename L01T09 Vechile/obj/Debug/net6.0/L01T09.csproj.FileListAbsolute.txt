@@ -1,0 +1,5 @@
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L01T09\obj\Debug\net6.0\L01T09.csproj.AssemblyReference.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L01T09\obj\Debug\net6.0\L01T09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L01T09\obj\Debug\net6.0\L01T09.AssemblyInfoInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L01T09\obj\Debug\net6.0\L01T09.AssemblyInfo.cs
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L01T09\obj\Debug\net6.0\L01T09.csproj.CoreCompileInputs.cache
