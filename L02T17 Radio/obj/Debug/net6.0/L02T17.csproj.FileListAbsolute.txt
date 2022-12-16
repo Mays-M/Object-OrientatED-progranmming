@@ -1,0 +1,15 @@
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\bin\Debug\net6.0\L02T17.exe
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\bin\Debug\net6.0\L02T17.deps.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\bin\Debug\net6.0\L02T17.runtimeconfig.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\bin\Debug\net6.0\L02T17.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\bin\Debug\net6.0\L02T17.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.csproj.AssemblyReference.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.AssemblyInfoInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.AssemblyInfo.cs
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\refint\L02T17.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\L02T17.genruntimeconfig.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L02T17\obj\Debug\net6.0\ref\L02T17.dll
