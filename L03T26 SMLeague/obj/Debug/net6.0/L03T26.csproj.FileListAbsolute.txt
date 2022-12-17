@@ -1,0 +1,15 @@
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.csproj.AssemblyReference.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.AssemblyInfoInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.AssemblyInfo.cs
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\bin\Debug\net6.0\L03T26.exe
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\bin\Debug\net6.0\L03T26.deps.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\bin\Debug\net6.0\L03T26.runtimeconfig.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\bin\Debug\net6.0\L03T26.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\bin\Debug\net6.0\L03T26.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\refint\L03T26.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\L03T26.genruntimeconfig.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L03T26\obj\Debug\net6.0\ref\L03T26.dll
