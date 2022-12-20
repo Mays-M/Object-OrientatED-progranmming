@@ -1,0 +1,15 @@
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.csproj.AssemblyReference.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.AssemblyInfoInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.AssemblyInfo.cs
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\bin\Debug\net6.0\L04T33.exe
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\bin\Debug\net6.0\L04T33.deps.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\bin\Debug\net6.0\L04T33.runtimeconfig.json
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\bin\Debug\net6.0\L04T33.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\bin\Debug\net6.0\L04T33.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\refint\L04T33.dll
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.pdb
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\L04T33.genruntimeconfig.cache
+C:\Users\Omistaja\Desktop\JAMK\4th semester\ttc8440-oop\L04T33\obj\Debug\net6.0\ref\L04T33.dll
